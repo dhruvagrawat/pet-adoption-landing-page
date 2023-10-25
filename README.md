@@ -14,7 +14,7 @@ Welcome to the Pet Adoption website! This website is dedicated to finding loving
 
 ![About Pets](./assets/img2.png)
 
-## About Us
+##About Us
 
 We are a passionate team of animal lovers committed to finding loving homes for pets in need. Our goal is to bring happiness and joy to both pets and adopters by making the adoption process as smooth as possible.
 
